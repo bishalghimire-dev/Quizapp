@@ -1,8 +1,6 @@
-asgiref==3.2.7
-Django==3.0.5
+Django==4.2.11
+asgiref==3.7.2
+sqlparse==0.4.4
+pytz            # optional (Django 4 doesn't need this but safe)
 django-widget-tweaks==1.4.8
-pytz==2020.1
-sqlparse==0.3.1
 gunicorn
-
-
